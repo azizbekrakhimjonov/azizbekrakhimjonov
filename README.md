@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azizbek Rahimjonov</h1>
 <h3 align="center">A Python Developer from Uzbekistan</h3>
-
+<img src="https://images.app.goo.gl/RTd3ifg5EBZ5xU858"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizbekrakhimjonov" alt="azizbekrakhimjonov" /></a> </p>
