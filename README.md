@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 🤝 I’m looking for help with **Python**
 
 - 💬 Ask me about **Python, Arduino, Java**
 
 - 📫 How to reach me **azizbekrahimjonov571@gmail.com**
 
-- ⚡ Fun fact **Python Developer**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekrakhimjonov&show_icons=true&locale=en&theme=tokyonight" alt="azizbekrakhimjonov" /></p>
 
