@@ -18,6 +18,9 @@
 - 📫 How to reach me **azizbekrahimjonov571@gmail.com**
 
 - ⚡ Fun fact **Python Developer**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekrakhimjonov&show_icons=true&locale=en&theme=tokyonight" alt="azizbekrakhimjonov" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizbekrakhimjonov" alt="azizbekrakhimjonov" /></a> </p>
