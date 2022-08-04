@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azizbek Rahimjonov</h1>
 <h3 align="center">A Python Developer from Uzbekistan</h3>
-<p align="center">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
+<p align="center">
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
  </p>
 
@@ -20,7 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekrakhimjonov&show_icons=true&locale=en&theme=tokyonight" alt="azizbekrakhimjonov" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizbekrakhimjonov" alt="azizbekrakhimjonov" /></a> </p>
 <h3 align="left">Connect with me:</h3>
