@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **Python**
 
 
-- 💬 Ask me about **Python, Django, Dart, Flutter,Cpp, Arduino, Java, Android**
+- 💬 Ask me about **Python, Django, Dart, Flutter, Cpp, Arduino, Java, Android**
 
 - 📫 How to reach me **azizbekrahimjonov571@gmail.com**
 
