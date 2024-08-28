@@ -21,8 +21,11 @@
 - 📫 How to reach me **azizbekrahimjonov571@gmail.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekrakhimjonov&show_icons=true&locale=en&theme=tokyonight" alt="azizbekrakhimjonov" /></p>
- <a href="https://github.com/azizbekrakhimjonov"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekrakhimjonov&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+<p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekrakhimjonov&show_icons=true&locale=en&theme=tokyonight" alt="azizbekrakhimjonov" />
+  <a href="https://github.com/azizbekrakhimjonov"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekrakhimjonov&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizbekrakhimjonov" alt="azizbekrakhimjonov" /></a> </p>
 <h3 align="left">Connect with me:</h3>
