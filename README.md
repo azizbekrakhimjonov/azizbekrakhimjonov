@@ -2,9 +2,16 @@
 <h3 align="center">Developer from Uzbekistan</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
 <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<p align="center">
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
  </p>
-
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
 
 
 
