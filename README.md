@@ -9,6 +9,9 @@
    <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
  </p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 - 🔭 I’m currently working on **Python Development**
