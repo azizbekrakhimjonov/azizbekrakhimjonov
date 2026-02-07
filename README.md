@@ -20,11 +20,6 @@
 - 📫 How to reach me **azizbekrahimjonov571@gmail.com**
 
 
-<p align="center">
- <a href="https://github.com/azizbekrakhimjonov">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=azizbekrakhimjonov&show_icons=true&locale=en&theme=tokyonight" alt="azizbekrakhimjonov" /></a>
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
